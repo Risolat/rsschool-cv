@@ -2,8 +2,8 @@
 #Risolat Utkurova
 ![avatar](/risolat.jpg)
 **Telephone:** +998977048737 
-[**Telegram:**] (t.me/r_utkurova) 
-[**Gmail:**] (risolat.utkurova@gmail.com)
+**Telegram:** [Go to](t.me/r_utkurova) 
+**Gmail:** [Go to](risolat.utkurova@gmail.com)
 
 ##Objectives
 Innovative junior developer who will give your company all the knowledge that I gained in my experience.
