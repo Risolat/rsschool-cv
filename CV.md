@@ -2,7 +2,7 @@
 
 # Risolat Utkurova
 
-![avatar](/risolat.jpg)
+![avatar](img/risolat.jpg)
 
 - ## Contact Info
 
