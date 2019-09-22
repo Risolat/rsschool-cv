@@ -1,10 +1,10 @@
 # rsschool-cv
 
-#Risolat Utkurova
+# Risolat Utkurova
 
 ![avatar](/risolat.jpg)
 
-##Contact Info
+- ## Contact Info
 
 **Telephone:**  +998977048737 
 
@@ -12,33 +12,33 @@
 
 **Gmail:**  risolat.utkurova@gmail.com
 
-##Summary
+- ##  Summary
 
 Innovative junior developer who will give your company all the knowledge that I gained in my experience.
 
 
-- ##Education
+- ## Education
 
    - 5th lyceum under TSTU foreign languages May 2016
   
-   -Inha University in Tashkent, Uzbekistan Bachelor of Computer Science, May 2020
+   - Inha University in Tashkent, Uzbekistan Bachelor of Computer Science, May 2020
   
 
--##Skills
+- ## Skills
 
-   -Experienced with HTML5, CSS3
+   - Experienced with HTML5, CSS3
 
-   -Implemented projects in Laravel framework
+   - Implemented projects in Laravel framework
 
-   -Experienced with CSS preprocessors like SASS
+   - Experienced with CSS preprocessors like SASS
 
-   -Skilled with Bootstrap
+   - Skilled with Bootstrap
 
-   -Deliberated, communicated, punctual and hardworking team player
+   - Deliberated, communicated, punctual and hardworking team player
 
 
 
-##Code examples
+- ## Code examples
 
 .card-active::before{
 
@@ -80,13 +80,13 @@ Innovative junior developer who will give your company all the knowledge that I 
 	
 }
 
-##Experience
+- ## Experience
 
--I am learning online courses in htmlacademy.ru
+   - I am learning online courses in htmlacademy.ru
 
-[Link to courses](https://htmlacademy.ru/profile/id1176211)
+   [Link to courses](https://htmlacademy.ru/profile/id1176211)
 
--Fronted developer courses at educational center
+   - Fronted developer courses at educational center
 
-[Link to works](https://htmlacademy.ru/profile/id1176211)
+   [Link to works](https://htmlacademy.ru/profile/id1176211)
 
