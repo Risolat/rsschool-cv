@@ -1,0 +1,121 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	margin: 0;
+	font-family: "Roboto", "Arial", sans-serif;
+	background: rgb(247,232,238);
+    background: linear-gradient(68deg, rgba(247,232,238,1) 0%, rgba(208,43,189,0.5956757703081232) 0%, rgba(233,130,178,1) 100%, rgba(252,247,249,1) 100%, rgba(252,247,249,1) 100%, rgba(255,243,248,1) 100%, rgba(252,247,249,1) 100%, rgba(252,247,249,1) 100%, rgba(252,247,249,1) 100%);
+	color: #d0327c;
+}
+p{
+	font-size: 18px;
+}
+.container{
+	max-width: 1000px;
+	margin: 0 auto;
+	background-color: #fff;
+	box-shadow: -4px 6px 26px 4px rgba(199,56,163,0.81);
+}
+.wrapper{
+	display: flex;
+	flex-wrap: wrap;
+}
+.headings{
+	padding: 8px 20px;
+	background: rgb(247,232,238);
+    background: linear-gradient(68deg, rgba(247,232,238,1) 0%, rgba(208,43,189,0.5956757703081232) 0%, rgba(233,130,178,1) 100%, rgba(252,247,249,1) 100%, rgba(252,247,249,1) 100%, rgba(255,243,248,1) 100%, rgba(252,247,249,1) 100%, rgba(252,247,249,1) 100%, rgba(252,247,249,1) 100%);
+	color: #fff3f8;
+	border-radius: 70px;
+	margin-bottom: 0;
+	font-weight: 500;
+	cursor: pointer;
+}
+.headings:hover,
+.headings:focus{
+	transform: translateY(-3px);
+}
+.sidebar{
+	position: fixed;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	flex-grow: 1;
+	width: 400px;
+	height: 100vh;
+	padding: 20px;
+	color: #de1e77;
+	background: rgb(226,87,214);
+    background: linear-gradient(to top, rgba(226,87,214,0.44441526610644255) 14%, rgba(233,130,178,1) 100%, rgba(252,247,249,1) 100%, rgba(255,243,248,1) 100%, rgba(252,247,249,1) 100%, rgba(252,247,249,1) 100%, rgba(252,247,249,1) 100%, rgba(252,247,249,1) 100%, rgba(247,232,238,1) 100%);
+    box-shadow: -4px 6px 26px 4px rgba(199,56,163,0.81); 	
+}
+.avatar{
+	width: 300px;
+	height: 270px;
+    margin: 30px 0 10px;
+	border-radius: 50%;
+	box-shadow: 6px 9px 17px 1px rgba(0,0,0,0.75);
+	cursor: pointer;
+}
+.name{
+	margin-bottom: 0;
+	text-align: center;
+	font-weight: 500;
+}
+.name:hover,
+.name:focus{
+	transform: translateY(-3px);
+}
+.contact{
+	margin-bottom: 5px;
+}
+.tel-wrapper,
+.tg-wrapper,
+.email-wrapper{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.email,
+.phone,
+.telegram{
+	font-weight: 500;
+	margin-right: 10px;
+}
+.telegram-username,
+.tel,
+.email-account {
+	color: #141390;
+	text-decoration: none;
+	
+}
+.hero{
+	display: flex;
+	max-width: 600px;
+	margin-left: 400px;
+	padding: 25px;
+	background-color: #fff3f8; 
+}
+.cv{
+	margin-left: 10px;
+	font-weight: 700;
+	padding-bottom: 15px;
+	border-bottom: 2px solid #e37cd1;
+}
+.section{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.summary-text{
+	text-align: center;
+	padding: 0 25px;
+}
+.experience-item{
+	margin-bottom: 0;
+}
+.experience-link{
+	color: #3267b3;
+	text-decoration: none;
+	
+}
