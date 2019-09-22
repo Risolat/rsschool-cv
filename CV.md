@@ -1,11 +1,12 @@
 # rsschool-cv
 #Risolat Utkurova
 ![avatar](/risolat.jpg)
+##Contact Info
 **Telephone:** +998977048737 
 **Telegram:** [r_utkurova](t.me/r_utkurova) 
 **Gmail:** risolat.utkurova@gmail.com
 
-##Objectives
+##Summary
 Innovative junior developer who will give your company all the knowledge that I gained in my experience.
 
 ##Education
@@ -18,19 +19,32 @@ Innovative junior developer who will give your company all the knowledge that I 
 *Experienced with CSS preprocessors like SASS
 *Skilled with Bootstrap
 *Deliberated, communicated, punctual and hardworking team player
-*Fluent in English
 
-##References
-Dr. Abhijit Tarawade 
-CS Engineering 
-9, Ziyolilar Street 
-M.Ulugbek district, 
-Tashkent city
-(+99890) 9642640 
 
-Dr. Chongkoo Ann
-IC Engineering
-9, Ziyolilar Street
-M.Ulugbek district, 
-Tashkent city
-(+99897) 7085232
+##Code examples
+.card-active::before{
+	position: absolute;
+	display: inline-block;
+	top: 50%;
+	transform: translateY(-50%);
+	right: 10px;
+	height: 20px;
+	width: 20px;
+	content: "";
+	background-image: url("./img/check.svg");
+	background-repeat: no-repeat;
+	background-size: contain;	
+}
+.method-link{
+	position: relative;
+	display: block;
+	padding: 20px 0 20px 90px;
+	text-decoration: none;
+	color: gray;
+}
+##Experience
+
+-I am learning online courses in htmlacademy.ru
+[Link to courses](https://htmlacademy.ru/profile/id1176211)
+-Fronted developer courses at educational center
+[Link to works](https://htmlacademy.ru/profile/id1176211)
