@@ -37,7 +37,6 @@ Innovative junior developer who will give your company all the knowledge that I 
    - Deliberated, communicated, punctual and hardworking team player
 
 
-
 - ## Code examples
 
 .card-active::before{
@@ -90,3 +89,9 @@ Innovative junior developer who will give your company all the knowledge that I 
 
    [Link to works](https://htmlacademy.ru/profile/id1176211)
 
+- ## English
+
+   - Fluent in English
+   
+   - I got 6.0 fro IELTS
+   
