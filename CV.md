@@ -17,24 +17,24 @@
 Innovative junior developer who will give your company all the knowledge that I gained in my experience.
 
 
-##Education\
+- ##Education
 
-  -5th lyceum under TSTU foreign languages May 2016
+   - 5th lyceum under TSTU foreign languages May 2016
   
-  -Inha University in Tashkent, Uzbekistan Bachelor of Computer Science, May 2020
+   -Inha University in Tashkent, Uzbekistan Bachelor of Computer Science, May 2020
   
 
-##Skills
+-##Skills
 
-  *Experienced with HTML5, CSS3
+   -Experienced with HTML5, CSS3
 
-  *Implemented projects in Laravel framework
+   -Implemented projects in Laravel framework
 
-  *Experienced with CSS preprocessors like SASS
+   -Experienced with CSS preprocessors like SASS
 
-  *Skilled with Bootstrap
+   -Skilled with Bootstrap
 
-  *Deliberated, communicated, punctual and hardworking team player
+   -Deliberated, communicated, punctual and hardworking team player
 
 
 
