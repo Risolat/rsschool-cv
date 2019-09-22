@@ -8,7 +8,7 @@
 
 **Telephone:**  +998977048737 
 
-**Telegram:**  [r_utkurova](t.me/r_utkurova)
+**Telegram:**  [r_utkurova](https://t.me/r_utkurova)
 
 **Gmail:**  risolat.utkurova@gmail.com
 
@@ -81,11 +81,11 @@ Innovative junior developer who will give your company all the knowledge that I 
 
 - ## Experience
 
-   - I am learning online courses in htmlacademy.ru
+   I am learning online courses in htmlacademy.ru
 
    [Link to courses](https://htmlacademy.ru/profile/id1176211)
 
-   - Fronted developer courses at educational center
+   Fronted developer courses at educational center
 
    [Link to works](https://htmlacademy.ru/profile/id1176211)
 
@@ -93,5 +93,5 @@ Innovative junior developer who will give your company all the knowledge that I 
 
    - Fluent in English
    
-   - I got 6.0 fro IELTS
+   - I got 6.0 from IELTS
    
